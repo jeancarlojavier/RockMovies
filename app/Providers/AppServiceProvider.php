@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Providers;
+namespace RockMovies\Providers;
 
 use Illuminate\Support\ServiceProvider;
 
